@@ -1,4 +1,3 @@
-import axios from 'axios';
 import { Component } from 'react';
 import logo from '../assets/logo512.png';
 import 'bulma/css/bulma.min.css';
